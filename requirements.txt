@@ -1,6 +1,0 @@
-aiogram==3.*
-python-dotenv
-
-
-
-
